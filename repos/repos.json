@@ -1,11 +1,11 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
-    "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
-    "branch": "T-Backup",
-    "device": "cupida",
-    "defconfig": "cupida_defconfig"
+    "name": "KernelSU-GTneo",
+    "repo": "https://github.com/xuxin1955/android_kernel_mtk6893",
+    "branch": "安卓13",
+    "device": "RMX3350",
+    "defconfig": "mtk6893_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
