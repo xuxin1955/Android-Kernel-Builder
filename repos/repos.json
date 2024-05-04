@@ -3,7 +3,7 @@
   "kernelSource": {
     "name": "KernelSU-GTneo",
     "repo": "https://github.com/xiaomi-mt6885-devs/android_kernel_xiaomi_mt6885",
-    "branch": "bpf-backport",
+    "branch": "cgroup-v2",
     "device": "redmi10X5G",
     "defconfig": "atom_user_defconfig"
   },
