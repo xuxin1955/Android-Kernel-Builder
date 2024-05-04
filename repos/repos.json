@@ -2,10 +2,10 @@
 {
   "kernelSource": {
     "name": "KernelSU-GTneo",
-    "repo": "https://github.com/xuxin1955/android_kernel_mtk6893",
-    "branch": "安卓13",
-    "device": "RMX3350",
-    "defconfig": "mtk6893_defconfig"
+    "repo": "https://github.com/xiaomi-mt6885-devs/android_kernel_xiaomi_mt6885",
+    "branch": "bpf-backport",
+    "device": "redmi10X5G",
+    "defconfig": "atom_user_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
