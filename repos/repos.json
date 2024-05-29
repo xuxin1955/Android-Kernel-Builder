@@ -7,11 +7,10 @@
     "device": "xiaomi",
     "defconfig": "marble_defconfig"
   },
-  "withKernelSU": true,
+  "withKernelSU": false,
   "toolchains": [
   {
-    "repo": "https://github.com/kdrag0n/proton-clang",
-    "branch": "master",
+    "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.6/clang+llvm-18.1.6-aarch64-linux-gnu.tar.xz",
     "name": "proton-clang",
     "binPath": ["./bin"]
   }
