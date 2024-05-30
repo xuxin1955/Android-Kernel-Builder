@@ -1,7 +1,7 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU",
+    "name": "Kernel",
     "repo": "https://github.com/xuxin1955/android_kernel_xiaomi_marble",
     "branch": "melt-rebase",
     "device": "xiaomi",
