@@ -10,7 +10,7 @@
   "withKernelSU": false,
   "toolchains": [
   {
-    "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.6/clang+llvm-18.1.6-aarch64-linux-gnu.tar.xz",
+    "url": "https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240529-release/Clang-19.0.0git-20240529.tar.gz",
     "name": "proton-clang",
     "binPath": ["./bin"]
   }
